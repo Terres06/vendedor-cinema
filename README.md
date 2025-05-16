@@ -71,6 +71,6 @@ Digite a opção desejada:
 
 ### 🧑‍💻 Autor
 
-**Seu Nome Aqui**  
+**Pedro Antonio Couto Terres**  
 Estudante de Engenharia da Computação  
-[GitHub](https://github.com/seunome)
+[GitHub](https://github.com/Terres06)
