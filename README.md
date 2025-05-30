@@ -59,14 +59,6 @@ Digite a opção desejada:
 - Plataforma: Terminal
 - Compatibilidade: Linux / Windows (com Dev-C++ ou equivalente)
 
-## 🚀 Melhorias Futuras
-
-- [ ] Adicionar logs de venda/cancelamento
-- [ ] Exibir estatísticas de vendas
-- [ ] Refatorar com uso de `struct`
-- [ ] Criar uma versão com interface gráfica
-- [ ] Disponibilizar versão Web integrada
-
 ---
 
 ### 🧑‍💻 Autor
